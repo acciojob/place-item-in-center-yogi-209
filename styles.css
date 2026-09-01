@@ -1,14 +1,13 @@
 .holder{
-width:250px;
-	height:250px;
+width:1vw;
+	height:1vh;
 	display:flex;
 	justify-content:center;
-	align-content:center;
 	align-items:center;
 }
 .item-1{
 
-	background-color:aqua;
+	background-color:red;
 	width:100px;
 	height:100px;
 }
